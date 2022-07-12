@@ -1,0 +1,25 @@
+{
+  "name": "sprint1-modulo4",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliapradob/sprint1-modulo4.git"
+  },
+  "keywords": [],
+  "author": "JuliaPrado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliapradob/sprint1-modulo4/issues"
+  },
+  "homepage": "https://github.com/juliapradob/sprint1-modulo4#readme",
+  "type": "module",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
